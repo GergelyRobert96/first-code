@@ -1,66 +1,70 @@
 .page-header {
-    background: no-repeat left/cover url(https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png);
-    display: flex;
-    width: 1400px;
-    height: 400px;
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 40px;
-    flex-wrap: wrap;
-    
-  }
-  
-  body{
-    margin: 0px;
-  }
-  
-  .body{
-    display: block; 
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .first-paragraph{
-    padding-left: 9%; 
-    margin-top: 40px;
-    font-size: 22px;
-    line-height: 32px;
-    font-family: 'Josefin Sans', sans-serif;
-    margin-bottom: 50px;
-  }
-  
-  .first-paragraph ul{
-    list-style-type: square;
-  }
-  
-  .first-box{
-    background-color: rgb(68 68 68);
-    width: 800px;
-    font-size: 54px;
-    padding: 10px 10px 10px 45px;
-    color: white; 
-    text-align: left;
-    position: relative;
-    margin-bottom: 50px;
-  }
-  
-  .quote{
-    position: absolute;
-    top: -60px;
-    left: 5px;
-    font-size: 100px;
-    margin: 0px;
-  }
-  
-  #second-h3{
-    margin: 60px 0px;
-    
-  }
-  
-  #second-p p{
-    font-size: 16px;
-    line-height: 26px;
-  }
-  
+  background: no-repeat left/cover url(https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png);
+  display: flex;
+  width: 1400px;
+  height: 400px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 40px;
+  flex-wrap: wrap;
+
+}
+
+body {
+  margin: 0px;
+}
+
+.body {
+  display: block;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.first-paragraph {
+  padding-left: 9%;
+  margin-top: 40px;
+  font-size: 22px;
+  line-height: 32px;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-bottom: 50px;
+}
+
+.first-paragraph ul {
+  list-style-type: square;
+}
+
+.first-box {
+  background-color: rgb(68 68 68);
+  width: 800px;
+  font-size: 54px;
+  padding: 10px 10px 10px 45px;
+  color: white;
+  text-align: left;
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.quote {
+  position: absolute;
+  top: -60px;
+  left: 5px;
+  font-size: 100px;
+  margin: 0px;
+}
+
+#second-h3 {
+  margin: 60px 0px;
+
+}
+
+#second-p p {
+  font-size: 16px;
+  line-height: 26px;
+}
+
+hr {
+  height: 5px;
+  background-color: black;
+}
